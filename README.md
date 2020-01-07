@@ -31,7 +31,7 @@ And thats it, you now have in your port 8080 the API running.
 
 In the following section you can find some screenshots relatives to the proyect:
 
-<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img3.png" width="200"><img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img2.png" width="200"><img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img1.png" width="200">
+<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img3.png" width="200" > <img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img2.png" width="200"> <img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img1.png" width="200">
 
 From left to right, the first one show the login page, the second one shows the full catalog of cards that the user has, and the third one shows a simple search to add or remove cards that the user has.
 
