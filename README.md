@@ -27,20 +27,13 @@ python3 manage.py runserver
 
 And thats it, you now have in your port 8080 the API running.
 
-### Comments
+## Comments
 
-In the following section you can find some screenshots relatives to the proyect.
-<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img3.png" width="800">
+In the following section you can find some screenshots relatives to the proyect:
 
-Imagen que muestra la página de login, donde se debe logear el usuario para acceder a sus cartas
+<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img3.png" width="200"><img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img2.png" width="200"><img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img1.png" width="200">
 
-<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img2.png" width="500">
-![alt text](https://github.com/ParserKnight/django-app-magic/blob/master/images/img2.png)
-Pagina principal que muestra la totalidad de cartas que posee el usuario, con paginación.
-
-<img src="https://github.com/ParserKnight/django-app-magic/blob/master/images/img1.png" width="200">
-![alt text](https://github.com/ParserKnight/django-app-magic/blob/master/images/img1.png)
-Imagen que muestra la página que aparece inmediatamente después de realizar una búsqueda de cartas, permite añadir o eliminar del registro del usuario
+From left to right, the first one show the login page, the second one shows the full catalog of cards that the user has, and the third one shows a simple search to add or remove cards that the user has.
 
 ## Built With
 
@@ -52,9 +45,7 @@ Imagen que muestra la página que aparece inmediatamente después de realizar un
 
 ## License
 
-NOTA: todos los logos e imagenes de Magic-TheGathering son propiedad de sus respectivos dueños, se han utilizado con fines demostrativos
-      y bajo ningun concepto digo tener o tengo derechos sobre esta propiedad. Todas las imagenes de cartas pueden ser obtenidas
-      de la página oficial de Magic (https://magic.wizards.com/en). 
+NOTE: Every logo and image of Magic-TheGathering are property of their respective owners, it were used with testing cases, i dont have any property right of the cards or the visual art of the cards, or the brand. Every card image and logo can be obtained from the official page (https://magic.wizards.com/en). 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
